@@ -1,0 +1,51 @@
+.imageContainer{
+    background-image: url(/src/Asset/image/backgroundimg.jpg);
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.RegCol{
+    overflow: scroll !important;
+    /* height: 735px !important; */
+    height: 100vh;
+}
+.formCard{
+    border-radius: 0 !important;
+}
+.RegHed{
+    color: #19e !important;
+    font: 25px Arial,Helvetica,sans-serif;
+    font-weight: 200;
+}
+.regRow{
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.strict{
+    color: #e62323;
+}
+
+.RegPage{
+    display: flex !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.RegLable{
+    font-size: 14px;
+    font-weight: 700;
+}
+.nationalitySelect{
+    border-radius: 0 !important;
+    height: 45px !important;
+    margin-bottom: 0 !important;
+}
+
+.error{
+    color:#e62323 ;
+}
+
+
+
+

@@ -1,0 +1,112 @@
+.servicesContainer{
+    margin-top: 100px;
+}
+.cardHeaderContent{
+    text-align: center;
+    font: 35px Arial, Helvetica, sans-serif;
+
+}
+
+.serviceBodyContainer{
+    padding-top: 40px;
+}
+.servicesCol{
+    /* align-items: center; */
+    display: flex;
+}
+.serviceForm{
+    margin-left: 20px;
+    width: 250px !important;
+}
+.servicesButtonPannel{
+    text-align: center;
+}
+.tableHeadContainer{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.TableCard{
+    height: 500px !important;
+}
+.servicesButton{
+    width: 30% !important;
+}
+.addBtn{
+    float: right !important;
+}
+.inputSearch{
+    border: 0 !important;
+}
+.searchLine{
+    margin: 0 !important;
+}
+
+.imgStyle{
+    width: 100px;
+    height: 80px;
+}
+.serviceTable{
+    text-align: center;
+}
+.serviceTableButtonPannel{
+    /* margin-left: 20px; */
+    display: inline;
+}
+.serviceTableButton{
+    margin: 10px;
+}
+.deleteserviceTableButton{
+    background-color: red !important;
+    color: white !important;
+    
+}
+.editModalStyle{
+    color: black !important;
+    margin-top: 30px;
+    border-width: 0px !important;
+
+}
+.editModalPannel{
+    margin-right: 0px !important;
+}
+.editModalContainer{
+    border-radius: 0% !important;
+  
+}
+
+.editInputField{
+    height: 45px;
+    border-radius: 0 !important;
+    margin-bottom: 0rem !important;
+}
+.modalLable{
+    margin-top: 10px !important;
+}
+
+.attributesStylePannel{
+    display: flex;
+}
+.attributesStyle{
+    border: 0px !important;
+}
+.editImage{
+    width: 100px;
+    height: 100px;
+}
+.editbanner{
+    width: 100px;
+    margin-left: 30px;
+    height: 100px;
+}
+
+@media screen and (max-width: 600px) {
+    
+   .serviceTableButtonPannel{
+    display: flex;
+   }
+   .editModal{
+    
+    margin-top: 50px;
+    margin-left: 0px;
+}
+    }

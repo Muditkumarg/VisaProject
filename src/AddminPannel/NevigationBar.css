@@ -1,0 +1,38 @@
+.NavStyle{
+    position: fixed;
+    /* background-color:#00000040; */
+    background-color: #6c757d !important;
+    box-shadow: none;
+    border-bottom: 0;
+    z-index: 99999;
+    height: 60px;
+    width: 100%;
+    padding: 0
+}
+
+.navbar-brand{
+    color:#fff !important;
+}
+.log-btn{
+    color: red !important;
+}
+.closedMenu{
+    position: absolute;
+    left: 90px;
+    cursor: pointer;
+    color: white;
+    font-size: 22px;
+}   
+.menu{
+    position: absolute;
+    cursor: pointer;
+    left: 250px;
+    color: white;
+    font-size: 22px;
+}
+@media screen and (max-width: 600px) {
+    .menu{
+        position: absolute;
+        left: 90px;
+    }
+}

@@ -1,0 +1,36 @@
+
+
+
+.userTableButton{
+    background-color: #0d9efd !important;
+    color: white !important;
+    font-weight: 600 !important;
+    margin: 10px;
+}
+
+.userTableButtonSign{
+    font-weight: 900;
+}
+.inputSearch{
+    margin-top: 15px;
+}
+.userApplyModal{
+   margin-top: 200px !important;
+    overflow-y: scroll !important;
+    height: auto !important;
+}
+.userApplyModalContent{
+    max-height: 100% !important;
+    overflow-y: scroll !important;
+    border-radius: 0 !important;
+
+}
+.header{
+    height: 45px !important;
+}
+.closeButton{
+font-size: 12px !important;
+}
+.noticeHeading{
+    color: #dc0000 !important;
+}

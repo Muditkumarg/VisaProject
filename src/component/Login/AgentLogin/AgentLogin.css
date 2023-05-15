@@ -1,0 +1,64 @@
+.column2{
+    background-image: url(/src/Asset/image/backgroundimg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.loginPnnel{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+}
+.loginContainer{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.loginColumn{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.loginBg{
+
+    max-width: 400px;
+    margin: 0 auto;
+}
+.formTop{
+    background: transparent !important;
+    overflow: hidden !important;
+    padding: 80px 0px 3px 0px !important;
+}
+
+.formBottum{
+    padding: 60px 0px 25px 0px !important;
+}
+
+.loginHeading{
+    color: #444;
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.inputStyle{
+    margin-bottom: 0px;
+    height: 55px;
+    border: 1px solid #dfdfdf !important;
+    background: transparent;
+    border-radius: 4px;
+    padding-left: 1.5rem;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    font-size: 18px;
+    font-weight: 300;
+    border-radius: 0rem;
+}
+.loginbtn{
+    width: 100%;
+    background-color: #35aa47 !important;
+}
+.validation{
+    color: #ff0500;
+}

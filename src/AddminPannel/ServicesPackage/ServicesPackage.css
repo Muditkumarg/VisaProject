@@ -1,0 +1,31 @@
+.servicesContainer{
+    margin-top: 100px;
+}
+.cardHeaderContent{
+    text-align: center;
+    font: 35px Arial, Helvetica, sans-serif;
+
+}
+.serviceTable{
+    text-align: center;
+}
+.serviceTableButtonPannel{
+    
+    display: inline;
+}
+.serviceTableButton{
+    margin: 10px;
+}
+
+@media screen and (max-width: 600px) {
+    
+    .serviceTableButtonPannel{
+     display: flex;
+    }
+    .editModal{
+     
+     margin-top: 50px;
+     margin-left: 0px;
+ }
+     
+     }

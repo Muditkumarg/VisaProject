@@ -1,0 +1,252 @@
+.paronama{
+    background-color: #4600ff9c;
+    background-position: 50% 0;
+    background-repeat: repeat-x;
+    min-height: 200px;
+    width: 100%;
+    position: relative;
+  
+}
+.paronamaPannel{
+    margin: 0 auto;
+    min-height: 200px;
+    width: 450px;
+    padding-top: 20px;
+
+}
+.bannerStyle{
+    width: 450px!important;
+    height: 160px;
+    border-radius: 15px;
+    border: 1px solid #EEEBE8;
+   
+}
+
+.titlePannel{
+    font: 13px Arial,Helvetica,sans-serif;
+    background-color:  #e4dcf594 !important;
+}
+
+.headingTitle{
+    margin: 0 auto;
+    padding: 0px 0px;
+    position: relative;
+    width: 975px;
+    padding-top: 60px;
+}
+
+.socialStyle2{
+    text-align: right;
+}
+.titleContainer{
+    width: 1000px !important;
+    margin-top: 60px;
+}
+.socialStyle1{
+    font: 34px DINWeb,Arial,Helvetica,sans-serif;
+}
+.dubaiContainer{
+    padding-top: 60px;
+    /* max-width: 2000px !important; */
+        max-width: 1000px !important;
+}
+.dubaiVisaCardPannel{
+    border-radius: 0px !important;
+    border-width: 0px !important;
+    padding-top: 15px !important;
+}
+.cardTitle0{
+    text-align: center;
+    padding-top: 15px;
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    font: 25px Arial,Helvetica,sans-serif !important;
+    margin-bottom: 0px !important;
+
+}
+.cardCol{
+    padding-top: 15px !important;
+}
+.cardTitle1{
+    text-align: center;
+    background-color: antiquewhite;
+    padding-bottom: 15px;
+    font: 18px Arial,Helvetica,sans-serif !important;
+    height: 60px;
+}
+.cardTitle2{
+    text-align: center;
+    background-color: yellow;
+    margin-top: -8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font: 20px Arial,Helvetica,sans-serif !important;
+
+}
+.middleBodycontainer{
+    
+    /* padding-left: 35px; */
+    list-style: none !important;
+    padding-left: 1rem !important;
+    line-height: 2 !important;
+
+}
+.dubaiVisaRowPannel{
+    margin-top: 35px !important;
+}
+.BsCheckLg{
+    display: flex !important;
+}
+.subCard{
+    width: auto !important;
+    border-radius: 0 !important;
+}
+.cardMiddleBody{
+    font-size: 15px !important;
+}
+.middleBodyIcon{
+    font-size: 30px;
+    color: #686764;
+    padding-right: 4px;
+}
+.ApplyVisaBtn{
+    border-radius: 0 !important;
+}
+.headingContent{
+    margin-top: 45px;
+    /* margin-bottom: 50px; */
+    font-size: 15px;
+    font-weight: 700;
+}
+.doccumentListPannel{
+    padding-left: 1rem !important;
+    list-style-type: square !important;
+}
+.doccumentList{
+    margin-top: 10px;
+    font: 13px Arial,Helvetica,sans-serif;
+    line-height: 15px;
+}
+.applyVisaCard{
+    width: auto !important;
+    border-radius: 0 !important;
+    margin-top: 15px !important;
+    border: 0 !important;
+}
+.applyVisaCardBody{
+    background-color: #19e!important
+}
+.applyVisaTitle{
+   color: white !important;
+}
+
+.applyVisaSelect{
+    border-radius: 0px !important;
+    margin-top: 25px !important;
+    font-size: 15px !important;
+    height: 50px !important;
+
+
+}
+.applyVisaDateSelect{
+    border-radius: 0px !important;
+
+}
+.travelSelectPannel {
+    display: flex;
+    height: 65px !important;
+}
+.travelSelect{
+    border-radius: 0 !important;
+    border: 0 !important;
+    
+}
+.travelApplyButton{
+    width: 100% !important;
+    border-radius: 0 !important;
+    height: 46px !important;
+}
+/* .applyVisaBtmRow{
+    width: 1000px !important;
+} */
+.callIcon{
+    height: 60px !important;
+    font-size: 48px !important;
+    color: #19e!important ;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.callCol1{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.callCol2{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.colPara{
+    margin-top: 10px !important;
+
+    margin-bottom: 0px !important;
+}
+.applyVisaSpan{
+    text-decoration: underline;
+    color: #686764;
+    font-size: 17px !important;
+}
+.callLink{
+    font-size: 17px;
+}
+.whataAppPannel{
+    padding-top: 5px;
+}
+.supportHeading{
+    border-bottom: none;
+    box-shadow: none;
+    color: #000;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21px;
+    margin: 0 0 15px;
+    padding: 15px 0px 0;
+    text-shadow: 1px 1px 0 #fff;
+}
+.timePannelPara{
+    color: #343332;
+    font-weight: 700;
+}
+.timeContent{
+    display: flex;
+}
+.timePara{
+    padding-left: 5px;
+    font-weight: 600;
+}
+@media screen and (max-width: 900px) {
+    .paronamaPannel{
+        margin: 0 auto;
+        min-height: 200px;
+        width: 370px;
+        padding-top: 20px;
+    
+    }
+    
+    .headingTitle{
+        margin: 0 auto;
+        padding: 0px 0px;
+        position: relative;
+        width: 350px;
+        padding-top: 60px;
+
+    }
+   .bannerStyle{
+    width: 370px!important;
+    height: 160px;
+    border-radius: 15px;
+    border: 1px solid #EEEBE8;
+   
+}
+
+
+} 

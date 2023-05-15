@@ -1,0 +1,78 @@
+.homePannel{
+    font: 13px Arial,Helvetica,sans-serif;
+    background-color:  #e4dcf594 !important;
+}
+.cardPnnel{
+    padding-top: 80px !important;
+    max-width: 950px !important;
+
+}
+
+.landingCardStyle{
+    color: black;
+    border-radius: 0% !important;
+
+    border-width: 0px !important;
+    
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+}
+
+
+.footer{
+    color: black !important;
+    max-width: 1150px !important;
+    padding-bottom: 15px !important
+
+}
+.footerPannel{
+    display: inline;
+    font-size: 13px;
+    margin: 10px 25px 0 0;
+    zoom: 1;
+    color: #686764;
+    text-decoration: none;
+    width: auto !important;
+    cursor: pointer;
+   
+}
+.cardStyle{
+display: inline-flex;
+}
+
+.cardImage{
+    width: 47px!important;
+    height: 47px;
+    border-radius: 100%;
+    border: 1px solid #EEEBE8;
+    margin-right: 15px;
+}
+
+.linkStyle{
+    text-decoration: none !important;
+    color: #343332 !important;
+    font: 16px Arial,Helvetica,sans-serif;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.visaPriceStyle{
+    text-align: right;
+    /* display: flex; */
+    color: #19E;
+    display: block;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 8px;
+    text-align: right;
+    margin-right: 10px;
+
+}
+
+.cardPrice{
+    color: #19E;
+    display: inline;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+}

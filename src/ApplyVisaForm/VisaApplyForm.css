@@ -1,0 +1,96 @@
+hr:not([size]) {
+    height: 0.9px !important;
+  }
+  .my-hr {
+    border: .9px !important;
+    height: 0.9px !important;
+  }
+  .mutliStepTab h6{
+    padding: 10px;
+    color: black;
+    cursor: pointer;
+    transition: all ease-in-out.3s;
+  }
+  .Active{
+    background-color: #19e;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all ease-in-out.3s;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  }
+  
+  .file {
+    position: relative;
+   
+  }
+  .passport-file {
+    position: relative;
+   
+  }
+  
+  .file > input[type='file']{
+    display: none
+  }
+  
+  .passport-file > input[type ="file"]{
+    display: none
+  }
+  
+  .file > label, .passport-file > label {
+    font-size: 1rem;
+    font-weight: 300;
+    cursor: pointer;
+    outline: 0;
+    user-select: none;
+    border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+    border-style: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(0, 0%, 29%);
+    padding: 7px;
+  }
+  .profile-container .profile{
+    border-radius: 50%;
+    border: 1px solid lightgrey;
+    padding: 40px;
+    color: lightgray;
+  
+  }
+  .profile-container .passport{
+    border-radius: 5%;
+    border: 1px solid lightgrey;
+    padding: 40px;
+    color: lightgray;
+  
+  }
+  /* .form-control{
+    outline: none !important;
+    border-radius: 4px !important;
+    font-size: .9rem !important;
+    padding: 0.675rem 0.5rem !important;
+  } */
+   input[type=text],textarea{
+    outline: none;
+    padding: 8px 10px;
+    border: 1px solid lightgray;
+  }
+  input:focus, select:focus, textarea:focus{
+    outline:0px !important; 
+    box-shadow: none !important;
+    border-radius: 4px;
+  }
+  .multisteFooter-Button{
+    border-radius: 50%;  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  .pdf-file-doc input[type="file"]{
+    background: #f2f2f2;
+      border: 1px solid #19e;
+      padding: 0px 10px 0 0;
+  }
+  .disabledTab{
+    cursor: not-allowed;
+    
+  }

@@ -1,0 +1,12 @@
+.userNavBarList{
+    list-style: none !important;
+}
+
+
+.profileStyle{
+    color: white !important;
+}
+.ProfileUl{
+    right: 0 !important;
+    left: auto !important;
+}

@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "termsMainText": "Welcome to the Ginger Hire Visa website (the Website). This Website is provided solely to assist customers in gathering travel information, determining the availability of travel-related goods and services, making legitimate reservations or otherwise transacting business with travel suppliers, and for no other purposes. The terms refer to Musafir.com India Private Limited, a company incorporated in Mumbai, India. The term you refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents This Website is offered to you conditioned upon your acceptance without modification of all the terms, conditions, and notices set forth below (collectively, the Agreement). By accessing or using this Website in any manner, you agree to be bound by the Agreement. Please read the Agreement carefully. If you do not accept all of these terms and conditions, please do not use this Website.",
+        "useOfWebsite": {
+            "title": "Use of the website",
+            "subText": "As a condition of your use of this Website, you warrant tha:",
+            "subMoreText": "We retain the right at our sole discretion to deny access to anyone to this Website and the services we offer, at any time and for any reason, including, but not limited to, for violation of this Agreement.",
+            "listItem": [
+                "You are at least 18 years of age",
+                "You possess the legal authority to create a binding legal obligation",
+                "You will use this Website in accordance with this Agreement",
+                "You will only use this Website to make legitimate purchases for you or for another person who is at least 18 years of age and for whom you are legally authorized to act",
+                "All information supplied by you on this Website is true, accurate, current and complete",
+                "You are a resident of India"
+            ]
+        },
+        "prohibited": {
+            "title": "Prohibited activities",
+            "subText": "The content and information on this Website (including, but not limited to, price and availability of travel services), as well as the infrastructure used to provide such content and information, is proprietary to us or our suppliers and providers. While you may make limited copies of your travel itinerary (and related documents) for travel or services booked through this Website, you agree not to otherwise modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any information, software, products, or services obtained from or through this Website. Additionally, you agree not to:",
+            "subMoreText": "You understand that any violations of this clause may result in the cancellation of your reservation(s), in your being denied access to the applicable travel product or services, in your forfeiting any monies paid for such reservation(s), and/or in our debiting your account for any costs we incur as a result of such violation",
+            "listItem": [
+                "You are at least 18 years of age",
+                "You possess the legal authority to create a binding legal obligation",
+                "You will use this Website in accordance with this Agreement",
+                "You will only use this Website to make legitimate purchases for you or for another person who is at least 18 years of age and for whom you are legally authorized to act",
+                "All information supplied by you on this Website is true, accurate, current and complete",
+                "You are a resident of India"
+            ]
+        },
+        "suppliersRuleRestriction": {
+            "title": "Suppliers, rules and restrictions",
+            "subText": "You acknowledge that Musafir pre-negotiates rates with suppliers to facilitate the purchase of products and services on your behalf. The rate displayed on the Website is a combination of the pre-negotiated rates for the products and services that you purchase, and a fee retained by Musafir to compensate us for our services.",
+            "subMoreText": "Separate terms and conditions will apply to your reservation and purchase of travel-related goods and services that you select. Please read these separate terms and conditions carefully. You agree to abide by the terms and conditions of purchase imposed by any supplier with whom you elect to deal, including, but not limited to, payment of all amounts when due and compliance with the supplier's rules and restrictions regarding availability and use of fares, products, or services. You acknowledge that some third-party providers offering certain services and/or activities may require you to sign their liability waiver prior to participating in the service and/or activity they offer. You understand that any violation of any such supplier's rules and restrictions may result in cancellation of your reservation(s), in your being denied access to the applicable travel product or services, in your forfeiting any monies paid for such reservation(s), and/or in our debiting your account for any costs we incur as a result of such violation."
+        },
+        "paymentPolicy": {
+            "title": "Payment policy",
+            "subText": "We accept online payments in Indian Rupees (Rs) on this Website. You warrant that you are the cardholder for all online payments made using credit/debit cards, and that your identification (“Cardholder ID”) exactly matches that of the credit/debit card used to make your purchase. You further agree to promptly provide proof of such matching Cardholder ID upon request at any time within six months of your purchase. You understand that any violation of this policy may result in cancellation of your reservation(s), in your being denied access to the applicable travel products or services, in your forfeiting any monies paid for such reservation(s), and/or in our debiting your account for any costs we incur as a result of such violation."
+        },
+        "changeCancellationPolicy": {
+            "title": "Change and cancellation policy",
+            "subText": "All requests for change or cancellation of any goods and services purchased on this website must be delivered in writing to the service help address provided at the end of these terms or by email to cancellation@in.musafir.com and must be received in both cases, on our working days at least 24 hours before these goods and services are scheduled to be provided. Our offices are open (working days) from 9:00am to 7:00pm India local time on each day from Monday to Sunday, except on public holidays and holidays declared for private sector establishments in India.",
+            "listItem": [
+                "If a change or cancellation policy relevant to your request is not provided in the terms and conditions imposed at the time of your purchase, your purchase can not be changed and is non-refundable in the event of a cancellation.",
+                "If a cancellation policy relevant to your request in the terms and conditions imposed at the time of your purchase does not explicitly state a refundable amount or how it may be calculated, your purchase is non-refundable in the event of a cancellation.",
+                "If the change or cancellation policies relevant to your request in the terms and conditions imposed at the time of your purchase do not specify the price of partly utilized services, they will be calculated based on the price of the utilized services alone at the time of your request and not pro-rata."
+            ]
+        },
+        "deliveryPolicy": {
+            "title": "Delivery policy",
+            "subText": "All goods and services purchased on this website and their transaction receipts will be delivered in the form of a printable electronic ticket (ticket) after the successful completion of your purchase. Your ticket will be made available for download for a limited period of time from the page on this website which confirms the successful completion of your purchase and will be delivered as a permanent record in an IETF RFC 2821 compliant electronic mail (e-mail) to the e-mail address you provide at the time of purchase. A notification of your ticket and any changes to it may also be delivered to your mobile number, subject to service availability.",
+            "subMoreText": "If you choose not to download your ticket from the page on this website which confirms the successful completion of your purchase, you must check that you have received the ticket for your purchase by e-mail and notify us without delay if you have not received it within one hour after your successful completion of the purchase."
+        },
+        "privacyPolicy": {
+            "title": "Delivery policy",
+            "subText": "We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read our privacy policy to learn about our privacy practices."
+        }
+    }
+]

@@ -1,0 +1,17 @@
+.NavBarHeader{
+    position: fixed;
+    background-color:rgb(6 65 72 / 69%);
+    box-shadow: none;
+    border-bottom: 0;
+    z-index: 99999;
+    height: 60px;
+    width: 100%;
+    padding: 0
+}
+
+.navbar-brand{
+    color:#fff !important;
+}
+.btn-outline-success{
+    color: yellow !important;
+}

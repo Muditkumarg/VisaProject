@@ -1,0 +1,66 @@
+.Signcolumn2{
+    background-image: url(/src/Asset/image/backgroundimg.jpg);
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+}
+.Signcolumn1{
+/* height: 100vh !important; */
+}
+.signUpContainer {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.SignUpBg {
+    max-width: 400px;
+    margin: 0 auto;
+
+}
+
+.signUpPannel {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0 !important;
+}
+
+.formTopContent {
+    background: transparent !important;
+    overflow: hidden !important;
+    margin: 80px 0px 3px 0px !important;
+}
+
+.SignformBottum {
+    margin: 60px 0px 25px 0px !important;
+}
+
+.SignHeading {
+    color: #444;
+    font-size: 20px;
+    margin-top: 0;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.signInputStyle{
+    margin-bottom: 0px;
+    height: 55px;
+    border: 1px solid #dfdfdf !important;
+    background: transparent;
+    border-radius: 4px;
+    padding-left: 1.5rem;
+    box-shadow: 0px 2px 15px rgb(0 0 0 / 10%);
+    font-size: 18px;
+    font-weight: 300;
+    border-radius: 0rem;
+}
+.validation{
+    color: #ff0500;
+}
+.SignUpbtn{
+    width: 100%;
+    background-color: #35aa47 !important;
+}

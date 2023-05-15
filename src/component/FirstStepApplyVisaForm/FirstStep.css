@@ -1,0 +1,129 @@
+
+
+.firstStep-topSection {
+  background-color: #C1E5FB;
+  color: #686764;
+  border: 1px solid white;
+  height: 40px;
+}
+
+.firstStep-topSection:last-child {
+  background-color: #E7F5FD;
+  border-color: #fff;
+
+}
+
+.firstStep-topSection p {
+  padding: 6px 11px 0px;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.apply-date-section span {
+  background: #19e;
+  padding: 10px;
+}
+
+.applyDate-center,
+.applyDate-right-Item {
+  line-height: 3px;
+}
+
+.applyDate-center p:last-child {
+  font-size: 13px;
+}
+
+.applyDate-right-Item p {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.stepOneList ul{
+  list-style: none;
+  padding-left: 0rem;
+}
+.stepOneList li{
+  font-size: 14px;
+  color: black;
+}
+.stepOneList span{
+  color: #19e;
+  font-size: 16px;
+  font-weight: 400;
+  background-color: transparent;
+}
+.apply-icon{
+  padding: 11px 28px;
+  background-color: #F7F5F3;
+}
+.iconStyle{
+  color: lightgrey;
+    font-size: 20px;
+}
+
+.offer-code input[type=text],.offer-code-btn{
+  outline: none;
+  padding: 8px 10px;
+  width: 110px;
+  border: 1px solid #19e;
+}
+.offer-codeBtn{
+  outline: none;
+  padding: 8px 10px;
+  width: 110px;
+  border: 1px solid lightgray;
+}
+.form-control{
+  outline: none !important;
+  border-radius: 0 !important;
+  font-size: .9rem !important;
+  padding: 0.675rem 0.5rem !important;
+}
+input:focus, select:focus{
+  outline:0px !important; 
+  box-shadow: none !important;
+  border-radius: 0;
+}
+ .firstStep-check-box{
+  border-color: #19e !important;
+  padding: 20px;
+  border-radius: 50%;
+}
+ .firstStep-check-box {
+  padding: 12px !important;
+ 
+}
+.firstStep-check-box[type=checkbox] {
+  border-radius: 50% !important;
+}
+.firstStep-check-label{
+  font-size: 14px;
+  line-height: 33px;
+}
+.travellers-container span{
+  background-color: #fd0;
+}
+.firstStep-Right-topSection p{
+  line-height: 19px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: black;
+}
+
+@media(max-width:900px) {
+  .apply-date-section span {
+   
+    padding: 5px !important;
+}
+}
+
+
+.add-more-button button, .delete-more-btn button{
+  font-size: 14px;
+}
+.close-more-button{
+  font-size: 15px;
+  color: red;
+  cursor: pointer;
+}

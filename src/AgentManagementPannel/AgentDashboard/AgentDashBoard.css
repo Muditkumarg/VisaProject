@@ -1,0 +1,47 @@
+
+.dashPannel{
+
+    position: absolute;
+    margin-left: 250px;
+    padding: 0 15px 10px 15px;
+    margin-bottom: 60px;
+    width: fill-available;
+    
+}
+
+
+.closeDashPannel{
+    position: absolute;
+    margin-left: 72px;
+    width: fill-available;
+    padding: 0 15px 10px 15px;
+    /* margin-top: 100px; */
+    margin-bottom: 60px;
+}
+
+@media screen and (max-width: 600px) {
+    
+    .closeDashPannel{
+        margin-left: 0px;
+    }
+
+}
+
+.dashCardStyle {
+
+    background-color: aliceblue !important;
+    width: auto;
+    height: 100% !important;
+}
+.dashBody{
+    padding: 0;
+}
+.dashContainer{
+margin-top: 100px;
+margin-bottom: 50px;
+}
+.mixed-chart{width: 100% !important;}
+.tableBody{
+    overflow: scroll;
+}
+
